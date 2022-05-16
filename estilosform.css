@@ -1,0 +1,25 @@
+body {
+    background-color: rgba(127, 255, 212, 0.418);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+}
+
+#container {
+    width: 95%;
+    background-color: rgb(189, 201, 224);
+    margin: auto;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.produto, .fabricante, .preco, .qtd, .descricao {
+    padding: 8px;
+} 
+
+button {
+    padding: 5px;
+    background-color: azure;
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    cursor: progress;
+}
